@@ -14,7 +14,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
     "typescript": "^3.9.4",
-    "snyk": "^1.335.0"
+    "snyk": "^1.336.0"
   },
   "scripts": {
     "start": "react-scripts start",
