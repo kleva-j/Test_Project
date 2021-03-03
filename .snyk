@@ -6848,3 +6848,5 @@ patch:
         patched: '2020-09-18T17:12:09.081Z'
     - snyk > snyk-mvn-plugin > @snyk/cli-interface > @snyk/dep-graph > graphlib > lodash:
         patched: '2020-09-18T17:12:09.081Z'
+    - react-scripts > eslint-plugin-testing-library > @typescript-eslint/experimental-utils > @typescript-eslint/typescript-estree > lodash:
+        patched: '2021-03-03T17:18:26.201Z'
